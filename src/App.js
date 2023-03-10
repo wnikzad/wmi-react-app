@@ -30,7 +30,7 @@ function App() {
               className="px-4 py-2 border text-[#ff0000] font-bold border-gray-200"
               colSpan={keys.length}
             >
-              Nothing matches your query.
+              Loading...
             </td>
           </tr>
         </>
